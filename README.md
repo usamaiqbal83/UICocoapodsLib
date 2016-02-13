@@ -1,3 +1,3 @@
-# UICocoapodsLib
-Test project for creating Cocoapods
+# UICocoaPodsLib
+Test project for creating CocoaPods
 
